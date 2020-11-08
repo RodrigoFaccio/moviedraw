@@ -31,3 +31,7 @@ Também, é preciso ter um gerenciador de pacotes seja NPM ou YARN.</p>
 
 ![WhatsApp Video 2020-11-08 at 10 34 11 AM](https://user-images.githubusercontent.com/53882388/98467078-2f83e380-21b2-11eb-86af-9972f268e01a.gif)
 
+<h4 align="center">
+     by <a href="https://www.linkedin.com/in/rodrigo-facio-995b141b9/" target="_blank">Rodrigo Facio</a>
+</h4>
+
