@@ -1,11 +1,11 @@
 <h1>Sobre</h1>
 <p>
-Movie Draw e um aplicação pensanda naquela hora em que você está sentado no sofá a bate aquela vontade de ver um filme mas você não sabe o que ver, então Movie Draw chegou na hora certa 
+Movie Draw é uma aplicação pensada na hora em que você está sentado no sofá e bate aquela vontade de ver um filme, mas você não sabe o que ver, então Movie Draw chegou na hora certa!!
 </p>
 <h1>🔥Iniciar Aplicação</h1>
 
-<p>É necessário possuir Node instalado na máquina
-Também, é preciso ter um gerenciador de pacotes seja NPM ou YARN.</p>
+<p>É necessário possuir Node instalado na máquina,
+também é preciso ter um gerenciador de pacotes como  NPM ou YARN.</p>
  
 2. Executando a Aplicação:
 
@@ -17,7 +17,7 @@ Também, é preciso ter um gerenciador de pacotes seja NPM ou YARN.</p>
   $ npm start
   ```
 
-<h1>🚀Tecnologias Ultilizadas </h1>
+<h1>🚀Tecnologias Utilizadas </h1>
 - JavaScript
 - ReactJS
 - Styled-Components
