@@ -20,7 +20,8 @@ Inicie a aplicação web
 
 # Resultado Web
 
-<img src="https://uploaddeimagens.com.br/imagens/niTqW8g">
+![WhatsApp Image 2020-11-08 at 10 28 55 AM](https://user-images.githubusercontent.com/53882388/98466738-30b41100-21b0-11eb-92b4-3ca0eafe1ca3.jpeg)
+
 ######Vídeo
 <iframe width="722" height="406" src="https://www.youtube.com/embed/NN9pNXKjCEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
