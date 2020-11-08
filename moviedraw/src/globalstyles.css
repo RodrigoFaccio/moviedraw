@@ -1,0 +1,11 @@
+html{
+    background-color: var(--primary);
+}
+:root{
+    --primary:#8257E5;
+    --second:#04D361;
+}
+h1{
+    align-items: center;
+    text-align: center;
+}
